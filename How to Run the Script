@@ -1,0 +1,33 @@
+Open a terminal and navigate to this folder:
+
+cd shadowfax/2.1_Web_Scraper
+Run the script:
+
+python web_scraper.py
+Enter the URL you want to scrape when prompted.
+
+🧪 Example Output
+
+Enter a URL to scrape: https://example.com
+
+--- Headings Found ---
+1. Welcome to Example
+2. Our Services
+
+--- Links Found ---
+1. https://example.com/about
+2. https://example.com/contact
+📌 Notes
+Make sure the target website allows scraping (check its robots.txt).
+
+This project is for educational purposes under the ShadowFox Internship.
+
+👤 Author
+Rudra Narayan Swain
+Cybersecurity & Python Intern
+GitHub Profile
+
+
+---
+
+Let me know if you'd like the actual `web_scraper.py` file as well, with code read
